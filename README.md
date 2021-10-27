@@ -3,3 +3,7 @@
 
 ## Example usage:
 - you can put it in a folder with a downloaded series to easily track episodes you've watched
+
+## How it works:
+
+![](presentation.gif)
